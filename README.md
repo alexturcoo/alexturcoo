@@ -1,16 +1,14 @@
-## Hi there 👋
+## Welcome to my Github
 
-<!--
-**alexturcoo/alexturcoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧬 *Research Interests* 
+Computational biology, cancer genomics, sequencing data, repetitive DNA (non-B, tandem repeats), machine learning + AI
 
-Here are some ideas to get you started:
+### 💻 *Programming Languages*: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![R](https://img.shields.io/badge/-R-000?&logo=R)
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![Latex](https://img.shields.io/badge/-Latex-000?&logo=Latex)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MYSQL)
+
+![alexturcoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexturcoo&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexturcoo&langs_count=5)
