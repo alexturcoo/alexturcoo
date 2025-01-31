@@ -1,7 +1,7 @@
 ## Welcome to my Github
 
 ### 🧬 *Research Interests* 
-Computational biology, cancer genomics, sequencing data, repetitive DNA (non-B, tandem repeats), machine learning + AI
+Computational biology, cancer genomics, sequencing, repetitive DNA (non-B, tandem repeats), the dark genome, assembly, machine learning + AI
 
 ### 💻 *Programming Languages*: 
 
